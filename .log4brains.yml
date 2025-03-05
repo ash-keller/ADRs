@@ -1,0 +1,5 @@
+project:
+  name: ADRs
+  tz: America/Chicago
+  adrFolder: ./docs/adr
+  packages: []
