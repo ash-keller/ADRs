@@ -1,6 +1,6 @@
 # Use Azure DevOps YAML Pipelines to Replace Classic (GUI) Pipelines
 
-- Status: draft
+- Status: proposed
 - Deciders: Ashley Keller
 - Date: 2025-03-06
 - Tags: pipelines azure
@@ -44,8 +44,8 @@ Chosen option: "YAML Pipelines", because it is the recommended approach from Mic
 One option is to continue using classic (GUI) pipelines.
 
 - Good, because no work would need to be done.
+- Good, because you can review the past state of the pipeline after a change, though it is more difficult to find via the UI.
 - Bad, because some pipelines already being used are Classic while others are YAML.
-- Bad, because the pipeline is not stored in source control anywhere. Once a change is made, it is active and the previous state of the pipeline is gone.
 - Bad, because there is no built in way to review changes to the pipeline. Once a change is saved, it is active.
 - Bad, because Microsoft is encouraging users to move away from Classic Pipelines whenever possible.
 
