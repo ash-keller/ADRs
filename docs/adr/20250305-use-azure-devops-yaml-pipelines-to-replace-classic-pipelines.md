@@ -1,8 +1,8 @@
 # Use Azure DevOps YAML Pipelines to Replace Classic (GUI) Pipelines
 
-- Status: proposed
+- Status: accepted
 - Deciders: Ashley Keller
-- Date: 2025-03-06
+- Date: 2025-03-07
 - Tags: pipelines azure
 
 Technical Story: [Determine Alternatives to GUI pipeline interface](https://qodexsolutions.atlassian.net/browse/HRE-316)
